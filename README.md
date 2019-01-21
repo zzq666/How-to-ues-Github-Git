@@ -1,5 +1,5 @@
-#Github
-github网站：www.github.com
+# Github
+网站：www.github.com
 注册后可以new一个repository
 ![image.png](https://upload-images.jianshu.io/upload_images/14451551-751bf104022c9ec0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 create完后会有以下页面，页面会提供几种本地Git远程管理的方法，比如:
@@ -7,7 +7,7 @@ create完后会有以下页面，页面会提供几种本地Git远程管理的�
 先复制到txt记事本，下面会用到。
 
 
-#Git
+# Git
 - Git的安装
 Git官网下载地址;https://www.git-scm.com/download/win(建议迅雷下载)
 - Git的初始化
@@ -61,7 +61,7 @@ git push -u origin master
 这时我们回到Github刷新一下
 ![image.png](https://upload-images.jianshu.io/upload_images/14451551-f053dcd29c926bed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 至此，完成从Git至Github的工作流程了。
-#用Git从Github上克隆项目
+# 用Git从Github上克隆项目
 ```git clone + 项目地址```
 ![image.png](https://upload-images.jianshu.io/upload_images/14451551-c7049e83ab7485cf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 克隆下来之后 提交到Git仓库后直接``` git push ```即可
